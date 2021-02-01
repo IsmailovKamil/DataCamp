@@ -5,3 +5,5 @@
 </p>
 
 My profile on [DataCamp](https://www.datacamp.com/profile/kismailo).
+
+All courses and projects are completed by me and retrieved from [DataCamp](https://www.datacamp.com/) E-learning platform.
