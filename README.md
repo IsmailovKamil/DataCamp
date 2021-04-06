@@ -12,3 +12,4 @@ All courses and projects are completed by me and retrieved from the [DataCamp](h
 | --- | --- |
 | [Generating Keywords for Google Ads](https://github.com/IsmailovKamil/DataCamp/tree/master/Generating%20Keywords%20for%20Google%20Ads) | Automatically generate keywords for a search engine marketing campaign using Python. |
 |[Data Manipulation with pandas](https://github.com/IsmailovKamil/DataCamp/tree/master/Data%20Manipulation%20with%20Python) | The world's most popular Python data science package to manipulate data and calculate summary. |
+|[Predicting Customer Churn in Python](https://github.com/IsmailovKamil/DataCamp/tree/master/Predicting%20Customer%20Churn%20in%20Python) | How to use Python to analyze customer churn and build a model to predict it. | 
